@@ -42,7 +42,7 @@
             flex-col
           "
         >
-          <img src="asset 8.jpeg" alt="" />
+          <img src="@/assets/img/asset8.jpeg" alt="" />
           <div>پیراهن بایرن مونیخ</div>
           <div class="text-green-400 mt-3">189/200 تومان</div>
         </div>
@@ -59,7 +59,7 @@
             flex-col
           "
         >
-          <img src="asset 9.jpeg" alt="" />
+          <img src="@/assets/img/asset9.jpeg" alt="" />
           <div>تیشرت مردانه طرح لیورپول</div>
           <div class="text-green-400 mt-3">355/000 تومان</div>
         </div>
@@ -76,7 +76,7 @@
             flex-col
           "
         >
-          <img src="asset 10.jpeg" alt="" />
+          <img src="@/assets/img/asset10.jpeg" alt="" />
           <div>تیشرت ورزشی طرح آمور</div>
           <div class="text-green-400 mt-3">545/600 تومان</div>
         </div>
@@ -93,7 +93,7 @@
             flex-col
           "
         >
-          <img src="asset 11.jpeg" alt="" />
+          <img src="@/assets/img/asset11.jpeg" alt="" />
           <div>پیراهن استقلال تهران</div>
           <div class="text-green-400 mt-3">450/000 تومان</div>
         </div>

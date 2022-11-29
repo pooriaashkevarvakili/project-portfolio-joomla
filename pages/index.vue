@@ -8,7 +8,7 @@
       <div>
         <img
           class="w-10/12 2xl:mr-36 lg:mr-12 md:mr-12 mr-12 xl:mr-36 mt-5"
-          src="ads-1.jpg"
+          src="http://joominamarket.ir/joomla/templates/joominamarket/narmesh/images/narmesh/ads/ads-1.jpg"
           alt=""
         />
       </div>
@@ -19,7 +19,7 @@
       <div>
         <img
           class="w-10/12 2xl:mr-36 lg:mr-12 md:mr-12 mr-12 xl:mr-36 mt-5"
-          src="asset 29.jpeg"
+          src="http://joominamarket.ir/joomla/templates/joominamarket/narmesh/images/narmesh/ads/ads-2.jpg"
           alt=""
         />
       </div>

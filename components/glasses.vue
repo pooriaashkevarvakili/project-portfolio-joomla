@@ -40,7 +40,7 @@
             flex-col
           "
         >
-          <img src="asset 24.jpeg" alt="" />
+          <img src="@/assets/img/asset24.jpeg" alt="" />
           <div>عینک شنامدل wg72-b</div>
           <div class="text-green-400 mt-3">189/200 تومان</div>
         </div>
@@ -57,7 +57,7 @@
             flex-col
           "
         >
-          <img src="asset 25.jpeg" alt="" />
+          <img src="@/assets/img/asset25.jpeg" alt="" />
           <div>عینک شناکرسی</div>
           <div class="text-green-400 mt-3">720/000 تومان</div>
         </div>
@@ -74,7 +74,7 @@
             flex-col
           "
         >
-          <img src="asset 26.jpeg" alt="" />
+          <img src="@/assets/img/asset26.jpeg" alt="" />
           <div>عینک شنامدل</div>
           <div class="text-green-400 mt-3">98/000 تومان</div>
         </div>
@@ -91,7 +91,7 @@
             flex-col
           "
         >
-          <img src="asset 27.jpeg" alt="" />
+          <img src="@/assets/img/asset27.jpeg" alt="" />
           <div>عینک شنا یاکاموا</div>
           <div class="text-green-400 mt-3">65/200 تومان</div>
         </div>

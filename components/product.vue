@@ -44,7 +44,7 @@
             "
           >
             <div class="flex space-y-1 items-center justify-center flex-col">
-              <img src="asset 4.png" alt="" />
+              <img src="@/assets/img/asset4.png" alt="" />
               <div>7روز ضمانت کالا</div>
               <div class="mr-4">لورم ایپسوم متن ساختگی با تولید ساختگی</div>
             </div>
@@ -63,7 +63,7 @@
             "
           >
             <div class="flex space-y-1 items-center justify-center flex-col">
-              <img src="asset 5.png" alt="" />
+              <img src="@/assets/img/asset5.png" alt="" />
               <div>پرداخت درمحل</div>
               <div class="mr-4">لورم ایپسوم متن ساختگی با تولید ساختگی</div>
             </div>
@@ -82,7 +82,7 @@
             "
           >
             <div class="flex space-y-1 items-center justify-center flex-col">
-              <img src="asset 6.png" alt="" />
+              <img src="@/assets/img/asset5.png" alt="" />
               <div>ضمانت اصل بودن کالا</div>
               <div class="mr-4">لورم ایپسوم متن ساختگی با تولید ساختگی</div>
             </div>
@@ -101,7 +101,7 @@
             "
           >
             <div class="flex space-y-1 items-center justify-center flex-col">
-              <img src="asset 7.png" alt="" />
+              <img src="@/assets/img/asset7.png" alt="" />
               <div>تضمین بهترین کیفیت</div>
               <div class="mr-4">لورم ایپسوم متن ساختگی با تولید ساختگی</div>
             </div>

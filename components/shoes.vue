@@ -40,7 +40,7 @@
             flex-col
           "
         >
-          <img src="asset 13.jpeg" alt="" />
+          <img src="@/assets/img/asset13.jpeg" alt="" />
           <div>کفش مخصوص پیاده روی</div>
           <div class="text-green-400 mt-3">210/000 تومان</div>
         </div>
@@ -57,7 +57,7 @@
             flex-col
           "
         >
-          <img src="asset 14.jpeg" alt="" />
+          <img src="@/assets/img/asset14.jpeg" alt="" />
           <div>کفش فوتسال مردانه</div>
           <div class="text-green-400 mt-3">155/760 تومان</div>
         </div>
@@ -74,7 +74,7 @@
             flex-col
           "
         >
-          <img src="asset 15.jpeg" alt="" />
+          <img src="@/assets/img/asset15.jpeg" alt="" />
           <div>کفش مخصوص پیاده روی</div>
           <div class="text-green-400 mt-3">150/000 تومان</div>
         </div>
@@ -91,7 +91,7 @@
             flex-col
           "
         >
-          <img src="asset 16.jpeg" alt="" />
+          <img src="@/assets/img/asset16.jpeg" alt="" />
           <div>کفش مخصوص پیاده روی</div>
           <div class="text-green-400 mt-3">102/080 تومان</div>
         </div>

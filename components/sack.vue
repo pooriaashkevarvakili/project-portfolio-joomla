@@ -40,7 +40,7 @@
             flex-col
           "
         >
-          <img src="asset 19.jpeg" alt="" />
+          <img src="@/assets/img/asset19.jpeg" alt="" />
           <div>ساک ورزشی مدل rf32</div>
           <div class="text-green-400 mt-3">330/000 تومان</div>
         </div>
@@ -57,7 +57,7 @@
             flex-col
           "
         >
-          <img src="asset 20.jpeg" alt="" />
+          <img src="@/assets/img/asset20.jpeg" alt="" />
           <div>ساک ورزشی لکسین مدل</div>
           <div class="text-green-400 mt-3">3/550/000تومان</div>
         </div>
@@ -74,7 +74,7 @@
             flex-col
           "
         >
-          <img src="asset 21.jpeg" alt="" />
+          <img src="@/assets/img/asset21.jpeg" alt="" />
           <div>ساک ورزشی مدلks-83</div>
           <div class="text-green-400 mt-3">420/000 تومان</div>
         </div>
@@ -91,7 +91,7 @@
             flex-col
           "
         >
-          <img src="asset 22.jpeg" alt="" />
+          <img src="@/assets/img/asset22.jpeg" alt="" />
           <div>ساک ورزشی مدلs014</div>
           <div class="text-green-400 mt-3">455/000 تومان</div>
         </div>

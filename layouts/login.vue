@@ -3,7 +3,10 @@
     <div class="flex items-center justify-center w-full h-screen">
       <div class="card w-96 bg-base-100 shadow-xl">
         <figure>
-          <img src="bg.jpg.webp" class="w-32 h-32 rounded-full mt-5" />
+          <img
+            src="@/assets/img/bg.jpg.webp"
+            class="w-32 h-32 rounded-full mt-5"
+          />
         </figure>
         <div class="card-body">
           <div class="card-title flex items-center justify-center">

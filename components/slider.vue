@@ -4,7 +4,7 @@
       class="carousel mt-3 w-10/12 2xl:mr-36 xl:mr-36 mr-16 lg:mr-16 md:mr-16"
     >
       <div id="slide1" class="carousel-item relative w-full">
-        <img src="asset 1.jpeg" class="w-full" />
+        <img src="@/assets/img/asset1.jpeg" class="w-full" />
         <div
           class="
             absolute
@@ -22,7 +22,7 @@
         </div>
       </div>
       <div id="slide2" class="carousel-item relative w-full">
-        <img src="asset 2.jpeg" class="w-full" />
+        <img src="@/assets/img/asset2.jpeg" class="w-full" />
         <div
           class="
             absolute
@@ -40,7 +40,7 @@
         </div>
       </div>
       <div id="slide3" class="carousel-item relative w-full">
-        <img src="asset 3.jpeg" class="w-full" />
+        <img src="@/assets/img/asset3.jpeg" class="w-full" />
         <div
           class="
             absolute
