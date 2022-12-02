@@ -4,12 +4,22 @@
       <div
         class="
           card
-          w-10/12
+          2xl:w-10/12
+          xl:w-10/12
+          lg:w-10/12
+          md:w-8/12
+          sm:w-8/12
+          xs:w-4/12
+          4xl:w-7/12
+          5xl:w-7/12
           2xl:mr-36
           xl:mr-36
-          lg:mr-12
-          md:mr-12
-          mr-12
+          4xl:mr-48
+          5xl:mr-44
+          lg:mr-20
+          md:mr-56
+          sm:mr-48
+          xs:mr-80
           mt-5
           bg-base-100
           shadow-xl

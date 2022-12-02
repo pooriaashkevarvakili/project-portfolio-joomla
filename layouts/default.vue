@@ -5,7 +5,23 @@
         <input id="my-drawer-3" type="checkbox" class="drawer-toggle" />
         <div class="drawer-content flex flex-col">
           <!-- Navbar -->
-          <div class="w-full navbar xl:px-20 lg:px-20 px-0 2xl:px-20">
+          <div
+            class="
+              w-full
+              navbar
+              2xl:ml-0
+              xl:ml-0
+              lg:ml-0
+              sm:ml-52
+              5xl:ml-32
+              4xl:ml-32
+              xs:ml-52
+              md:ml-64
+              lg:px-20
+              px-0
+              2xl:px-20
+            "
+          >
             <div class="flex-none lg:hidden">
               <label for="my-drawer-3" class="btn btn-square btn-ghost">
                 <svg

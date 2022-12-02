@@ -6,10 +6,20 @@
         2xl:w-11/12
         xl:w-11/12
         lg:w-11/12
-        md:w-11/12
-        w-11/12
+        md:w-8/12
+        sm:w-8/12
+        4xl:w-8/12
+        5xl:w-8/12
+        xs:w-8/12
         bg-base-100
         shadow-xl
+        md:mr-52
+        sm:mr-44
+        4xl:mr-40
+        5xl:mr-36
+        2xl:mr-0
+        xl:mr-0
+        lg:mr-0
       "
     >
       <div class="card-body">
@@ -41,9 +51,16 @@
                 xl:w-80
                 lg:w-80
                 md:w-96
-                w-80
+                sm:w-80
+                4xl:w-72
                 bg-base-100
                 shadow-xl
+                2xl:-mr-0
+                xl:-mr-0
+                lg:-mr-0
+                md:-mr-12
+                4xl:-mr-8
+                5xl:-mr-6 5xl:w-64
               "
             >
               <figure>
@@ -72,9 +89,16 @@
                 xl:w-80
                 lg:w-80
                 md:w-96
-                w-80
+                sm:w-80
+                4xl:w-72
                 bg-base-100
                 shadow-xl
+                2xl:-mr-0
+                xl:-mr-0
+                lg:-mr-0
+                md:-mr-12
+                4xl:-mr-8
+                5xl:-mr-6 5xl:w-64
               "
             >
               <figure>
@@ -103,9 +127,16 @@
                 xl:w-80
                 lg:w-80
                 md:w-96
-                w-80
+                sm:w-80
+                4xl:w-72
                 bg-base-100
                 shadow-xl
+                2xl:-mr-0
+                xl:-mr-0
+                lg:-mr-0
+                md:-mr-12
+                4xl:-mr-8
+                5xl:-mr-6 5xl:w-64
               "
             >
               <figure>

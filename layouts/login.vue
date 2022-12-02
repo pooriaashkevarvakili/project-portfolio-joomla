@@ -1,7 +1,20 @@
 <template>
   <div class="bg-pink-300">
     <div class="flex items-center justify-center w-full h-screen">
-      <div class="card w-96 bg-base-100 shadow-xl">
+      <div
+        class="
+          card
+          2xl:w-96
+          xl:w-96
+          lg:w-96
+          md:w-96
+          2xl:mr-0
+          xl:mr-0
+          lg:mr-0
+          bg-base-100
+          shadow-xl
+        "
+      >
         <figure>
           <img
             src="@/assets/img/bg.jpg.webp"

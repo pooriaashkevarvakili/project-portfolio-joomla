@@ -1,7 +1,36 @@
 <template>
   <footer
     style="direction: rtl"
-    class="items-center bg-white p-4 text-neutral-content"
+    class="
+      items-center
+      card
+      md:w-8/12
+      sm:w-8/12
+      xs:w-4/12
+      4xl:w-7/12
+      5xl:w-7/12
+      2xl:mr-36
+      xl:mr-36
+      4xl:mr-48
+      5xl:mr-44
+      lg:mr-20
+      md:mr-96
+      sm:mr-48
+      xs:mr-80
+      mt-5
+      shadow-xl
+      2xl:w-full
+      xl:w-full
+      lg:w-full
+      2xl:ml-0
+      xl:ml-0
+      lg:ml-0
+      md:ml-0
+      ml-10
+      bg-white
+      p-4
+      text-neutral-content
+    "
   >
     <div>
       <div

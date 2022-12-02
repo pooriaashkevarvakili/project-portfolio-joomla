@@ -1,7 +1,18 @@
 <template>
-  <div class="flex flex-col mt-20 items-center justify-center">
+  <div
+    class="
+      flex
+      2xl:mr-0
+      xl:mr-0
+      lg:mr-0
+      flex-col
+      mt-20
+      items-center
+      justify-center
+    "
+  >
     <img
-      class="2xl:mr-2 xl:mr-2 lg:mr-2 md:mr-10 mr-10"
+      class="2xl:mr-2 xl:mr-2 lg:mr-2 md:mr-10"
       src="@/assets/img/error.png"
       alt=""
     />

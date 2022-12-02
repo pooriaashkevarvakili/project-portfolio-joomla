@@ -11,8 +11,11 @@
         2xl:px-20
         xl:px-24
         lg:px-0
-        md:px-0
-        px-0
+        md:px-48
+        sm:px-36
+        4xl:px-36
+        xs:px-32
+        5xl:px-32
         justify-between
       "
     >
@@ -26,8 +29,11 @@
           mt-3
           xl:ml-0
           lg:ml-28
-          md:mr-16
-          mr-16
+          md:mr-14
+          sm:mr-14
+          4xl:mr-14
+          xs:mr-14
+          5xl:mr-14
         "
       >
         <div class="flex">

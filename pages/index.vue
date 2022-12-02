@@ -7,7 +7,26 @@
     <div>
       <div>
         <img
-          class="w-10/12 2xl:mr-36 lg:mr-12 md:mr-12 mr-12 xl:mr-36 mt-5"
+          class="
+            2xl:w-10/12
+            xl:w-10/12
+            lg:w-10/12
+            md:w-8/12
+            sm:w-8/12
+            xs:w-4/12
+            4xl:w-7/12
+            5xl:w-7/12
+            xl:mr-36
+            4xl:mr-48
+            5xl:mr-44
+            sm:mr-48
+            xs:mr-80
+            2xl:mr-36
+            lg:mr-12
+            md:mr-60
+            mr-12
+            mt-5
+          "
           src="http://joominamarket.ir/joomla/templates/joominamarket/narmesh/images/narmesh/ads/ads-1.jpg"
           alt=""
         />
@@ -18,7 +37,26 @@
     <div>
       <div>
         <img
-          class="w-10/12 2xl:mr-36 lg:mr-12 md:mr-12 mr-12 xl:mr-36 mt-5"
+          class="
+            2xl:w-10/12
+            xl:w-10/12
+            lg:w-10/12
+            md:w-8/12
+            sm:w-8/12
+            xs:w-4/12
+            4xl:w-7/12
+            5xl:w-7/12
+            xl:mr-36
+            4xl:mr-48
+            5xl:mr-44
+            sm:mr-48
+            xs:mr-80
+            2xl:mr-36
+            lg:mr-12
+            md:mr-60
+            mr-12
+            mt-5
+          "
           src="http://joominamarket.ir/joomla/templates/joominamarket/narmesh/images/narmesh/ads/ads-2.jpg"
           alt=""
         />
@@ -27,7 +65,27 @@
     <productweblog />
     <weblog />
     <div>
-      <div class="w-10/12 2xl:mr-36 lg:mr-12 md:mr-12 mr-12 xl:mr-36 mt-5">
+      <div
+        class="
+          2xl:w-10/12
+          xl:w-10/12
+          lg:w-10/12
+          md:w-8/12
+          sm:w-8/12
+          xs:w-4/12
+          4xl:w-7/12
+          5xl:w-7/12
+          xl:mr-36
+          4xl:mr-48
+          5xl:mr-44
+          sm:mr-48
+          xs:mr-80
+          2xl:mr-36
+          lg:mr-12
+          md:mr-56
+          mt-5
+        "
+      >
         <img src="@/assets/img/asset37.jpeg" alt="" />
       </div>
     </div>
@@ -45,14 +103,50 @@
       >
         <div>
           <img
-            class="w-10/12 2xl:mr-36 xl:mr-36 lg:mr-12 md:mr-12 mr-12"
+            class="
+              2xl:w-10/12
+              xl:w-10/12
+              lg:w-10/12
+              md:w-8/12
+              sm:w-8/12
+              xs:w-4/12
+              4xl:w-7/12
+              5xl:w-7/12
+              4xl:mr-48
+              5xl:mr-44
+              sm:mr-48
+              xs:mr-80
+              2xl:mr-36
+              xl:mr-36
+              lg:mr-12
+              md:mr-56
+              mt-5
+            "
             src="@/assets/img/asset38.jpeg"
             alt=""
           />
         </div>
         <div>
           <img
-            class="w-10/12 2xl:mr-7 xl:mr-7 md:mr-12 mr-12"
+            class="
+              2xl:w-10/12
+              xl:w-10/12
+              lg:w-10/12
+              md:w-8/12
+              sm:w-8/12
+              xs:w-4/12
+              4xl:w-7/12
+              5xl:w-7/12
+              2xl:mr-7
+              xl:mr-7
+              4xl:mr-48
+              5xl:mr-44
+              sm:mr-48
+              xs:mr-80
+              lg:mr-12
+              md:mr-56
+              mt-5
+            "
             src="@/assets/img/asset39.jpeg"
             alt=""
           />
@@ -60,12 +154,10 @@
       </div>
     </div>
     <cardIpsum />
-    <cardIpsumone />
   </div>
 </template>
 
 <script setup>
-import cardIpsumone from "../components/cardIpsumOne.vue";
 import cardIpsum from "../components/cardIpsum.vue";
 import productweblog from "../components/productWeblog.vue";
 import sack from "../components/sack.vue";
