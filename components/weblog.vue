@@ -15,8 +15,9 @@
         shadow-xl
         md:mr-52
         sm:mr-44
-        4xl:mr-40
-        5xl:mr-36
+        4xl:mr-36
+        5xl:mr-32
+        xs:mr-32
         2xl:mr-0
         xl:mr-0
         lg:mr-0
@@ -53,6 +54,7 @@
                 md:w-96
                 sm:w-80
                 4xl:w-72
+                sm:-mr-4
                 bg-base-100
                 shadow-xl
                 2xl:-mr-0
@@ -94,6 +96,7 @@
                 bg-base-100
                 shadow-xl
                 2xl:-mr-0
+                sm:-mr-4
                 xl:-mr-0
                 lg:-mr-0
                 md:-mr-12
@@ -129,6 +132,7 @@
                 md:w-96
                 sm:w-80
                 4xl:w-72
+                sm:-mr-4
                 bg-base-100
                 shadow-xl
                 2xl:-mr-0
